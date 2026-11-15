@@ -55,7 +55,7 @@ I built an ad-free, customizable music app with a focus on high-quality audio. I
 ## Tools & technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,react,nodejs,php,java,c,cpp,cs,go,rust,bash,git,github,vscode,figma,ps,pr" alt="Python, HTML, CSS, JavaScript, TypeScript, React, Node.js, PHP, Java, C, C++, C#, Go, Rust, Bash, Git, GitHub, VS Code, Figma, Photoshop, and Premiere Pro" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,react,nodejs,php,java,c,cpp,cs,bash,mysql,postgres,git,github,vscode" alt="Python, HTML, CSS, JavaScript, TypeScript, React, Node.js, PHP, Java, C, C++, C#, Bash, MySQL, PostgreSQL, Git, GitHub, and VS Code" />
 </p>
 
 I work across **development, design, and editing**, and keep expanding the languages and creative tools I use to bring ideas to life.
