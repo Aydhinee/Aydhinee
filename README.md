@@ -30,42 +30,44 @@ I’m always learning, experimenting with new technologies and creative ideas, a
 - 💻 Building projects across web development and software
 - 🚀 Always exploring new tools and ideas
 
+> **A note about my code:** I keep my project repositories and source code private. This profile highlights selected projects and live demos, but does not publish their source code.
+
 ## Featured projects
 
 ### 🤖 Kuttan AI
-A personal AI system I’m building around my own ideas for a capable, personalized assistant. It’s a private project, so its source code isn’t public.
+My own AI system, already built for my personal use. It’s a private project, and I’m not publishing its source code.
 
 ### 🔎 [Scanvex](https://scanvex.aydh.in/)
-A full-featured web project for creating and scanning QR codes, designed to make the process easy and accessible.
+A web platform for creating and scanning QR codes, designed to make the process easy and accessible.
 
 ### 🧮 [Solvex](https://solvex.aydh.in/)
 A feature-rich calculator website with a range of tools for everyday calculations.
 
 ### 🎵 [Nazha](https://nazha.online/)
-A Discord music bot built for communities and servers. Visit the site to learn more.
+A Discord music bot used across many servers, built to bring music features to Discord communities. Visit the site to learn more.
 
 ### 🎧 [Memo](https://memo.online/)
-Another Discord music bot project focused on music and songs.
+My other Discord music bot project, focused on music and songs.
 
 ### 🎼 Independent music app *(no longer online)*
-I also built a customizable, ad-free music app focused on high-quality audio. I eventually took it offline because of project issues, but it was an important part of my journey.
+I built an ad-free, customizable music app with a focus on high-quality audio. I later took it offline because of project issues, but it remains an important part of my building journey.
 
-## What I work with
+## Tools & technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,react,html,css,js,git,github,vscode" alt="Python, React, HTML, CSS, JavaScript, Git, GitHub, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,react,nodejs,php,java,c,cpp,cs,go,rust,bash,git,github,vscode,figma,ps,pr" alt="Python, HTML, CSS, JavaScript, TypeScript, React, Node.js, PHP, Java, C, C++, C#, Go, Rust, Bash, Git, GitHub, VS Code, Figma, Photoshop, and Premiere Pro" />
 </p>
 
-My work brings together **development, design, and editing**. I’m continually growing my toolkit and exploring better ways to make digital experiences both useful and enjoyable.
+I work across **development, design, and editing**, and keep expanding the languages and creative tools I use to bring ideas to life.
 
 ## My journey
 
 | Year | Milestone |
 | --- | --- |
-| **2023** | Started out with small Python projects, learning the basics by experimenting and building. |
-| **2024** | Expanded my interests into AI systems and social media, learning how technology and creativity can work together. |
-| **2025** | Began turning ideas into more practical projects, including websites and experiments with my own AI systems. |
-| **2026** | Continued learning and building websites, apps, AI projects, and other code-related tools. |
+| **2023** | Started with small Python projects, learning the basics by experimenting and building. |
+| **2024** | Explored AI systems and social media, learning how technology and creativity can work together. |
+| **2025** | Started building more substantial projects, including websites and my own AI systems. |
+| **2026** | Continued building websites, apps, AI systems, and other code-related tools. |
 | **Next** | Keep learning, take on new challenges, and create more useful, thoughtful work. |
 
 ## GitHub at a glance
@@ -83,7 +85,7 @@ My work brings together **development, design, and editing**. I’m continually 
 
 ## Let's connect
 
-Have an interesting idea, want to collaborate, or just want to see more of my work? Visit **[my portfolio](https://aydh.in/)** to explore my projects and find my contact links.
+Have an interesting idea, want to collaborate, or want to see more of my work? Visit **[my portfolio](https://aydh.in/)** to explore my projects and find my contact links.
 
 <div align="center">
 
