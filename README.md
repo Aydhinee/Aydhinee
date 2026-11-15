@@ -32,13 +32,23 @@ I’m always learning, experimenting with new technologies and creative ideas, a
 
 ## Featured projects
 
-| Project | What it is |
-| --- | --- |
-| [Fruit Ninja](https://github.com/Aydhinee/fruit-ninja) | A custom Fruit Ninja-style game built with Python. |
-| [Push-up Counter & Motivator](https://github.com/Aydhinee/pushup-counter-motivator-tool-) | A motivational fitness helper built in Python. |
-| [Wi-Fi Profile Viewer](https://github.com/Aydhinee/wifi-profile-viewer) | A Python tool for viewing saved Wi-Fi profiles and the current connection. |
+### 🤖 Kuttan AI
+A personal AI system I’m building around my own ideas for a capable, personalized assistant. It’s a private project, so its source code isn’t public.
 
-[**Browse all repositories →**](https://github.com/Aydhinee?tab=repositories)
+### 🔎 [Scanvex](https://scanvex.aydh.in/)
+A full-featured web project for creating and scanning QR codes, designed to make the process easy and accessible.
+
+### 🧮 [Solvex](https://solvex.aydh.in/)
+A feature-rich calculator website with a range of tools for everyday calculations.
+
+### 🎵 [Nazha](https://nazha.online/)
+A Discord music bot built for communities and servers. Visit the site to learn more.
+
+### 🎧 [Memo](https://memo.online/)
+Another Discord music bot project focused on music and songs.
+
+### 🎼 Independent music app *(no longer online)*
+I also built a customizable, ad-free music app focused on high-quality audio. I eventually took it offline because of project issues, but it was an important part of my journey.
 
 ## What I work with
 
