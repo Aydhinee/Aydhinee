@@ -48,6 +48,16 @@ I’m always learning, experimenting with new technologies and creative ideas, a
 
 My work brings together **development, design, and editing**. I’m continually growing my toolkit and exploring better ways to make digital experiences both useful and enjoyable.
 
+## My journey
+
+| Year | Milestone |
+| --- | --- |
+| **2023** | Started out with small Python projects, learning the basics by experimenting and building. |
+| **2024** | Expanded my interests into AI systems and social media, learning how technology and creativity can work together. |
+| **2025** | Began turning ideas into more practical projects, including websites and experiments with my own AI systems. |
+| **2026** | Continued learning and building websites, apps, AI projects, and other code-related tools. |
+| **Next** | Keep learning, take on new challenges, and create more useful, thoughtful work. |
+
 ## GitHub at a glance
 
 <div align="center">
